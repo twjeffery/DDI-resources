@@ -215,7 +215,7 @@ To add auxiliary links to your site (in the upper right on all pages), add it to
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "Test":
     - "//github.com/pmarsceill/just-the-docs"
 ```
 
